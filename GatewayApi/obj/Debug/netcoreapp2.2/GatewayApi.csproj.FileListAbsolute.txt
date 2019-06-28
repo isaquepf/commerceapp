@@ -1,0 +1,14 @@
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/bin/Debug/netcoreapp2.2/GatewayApi.deps.json
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/bin/Debug/netcoreapp2.2/GatewayApi.runtimeconfig.json
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/bin/Debug/netcoreapp2.2/GatewayApi.runtimeconfig.dev.json
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/bin/Debug/netcoreapp2.2/GatewayApi.dll
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/bin/Debug/netcoreapp2.2/GatewayApi.pdb
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.csprojAssemblyReference.cache
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.csproj.CoreCompileInputs.cache
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.RazorAssemblyInfo.cache
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.RazorAssemblyInfo.cs
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.AssemblyInfoInputs.cache
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.AssemblyInfo.cs
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.RazorTargetAssemblyInfo.cache
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.dll
+/home/isaquepf/repositories/dotnet/commerceapp/GatewayApi/obj/Debug/netcoreapp2.2/GatewayApi.pdb

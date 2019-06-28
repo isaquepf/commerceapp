@@ -1,0 +1,14 @@
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.csprojAssemblyReference.cache
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.csproj.CoreCompileInputs.cache
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.RazorAssemblyInfo.cache
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.RazorAssemblyInfo.cs
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.AssemblyInfoInputs.cache
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.AssemblyInfo.cs
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.deps.json
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.runtimeconfig.json
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.runtimeconfig.dev.json
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.dll
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/bin/Debug/netcoreapp2.2/OrderApi.pdb
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.RazorTargetAssemblyInfo.cache
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.dll
+/home/isaquepf/repositories/dotnet/commerceapp/OrderApi/obj/Debug/netcoreapp2.2/OrderApi.pdb

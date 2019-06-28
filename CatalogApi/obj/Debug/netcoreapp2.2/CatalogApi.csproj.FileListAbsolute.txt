@@ -1,0 +1,14 @@
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/bin/Debug/netcoreapp2.2/CatalogApi.deps.json
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/bin/Debug/netcoreapp2.2/CatalogApi.runtimeconfig.json
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/bin/Debug/netcoreapp2.2/CatalogApi.runtimeconfig.dev.json
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/bin/Debug/netcoreapp2.2/CatalogApi.dll
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/bin/Debug/netcoreapp2.2/CatalogApi.pdb
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.csprojAssemblyReference.cache
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.csproj.CoreCompileInputs.cache
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.RazorAssemblyInfo.cache
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.RazorAssemblyInfo.cs
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.AssemblyInfoInputs.cache
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.AssemblyInfo.cs
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.RazorTargetAssemblyInfo.cache
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.dll
+/home/isaquepf/repositories/dotnet/commerceapp/CatalogApi/obj/Debug/netcoreapp2.2/CatalogApi.pdb
